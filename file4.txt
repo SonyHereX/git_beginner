@@ -1,0 +1,6 @@
+So far i have completed learning how to clone the github repo locally and work in that, So here are the few git commands i learnt today,
+1) git clone < repo url>
+2) git add 
+3) git commit -m "Type your commit message"
+4) git push origin main
+
